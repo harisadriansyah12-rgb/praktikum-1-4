@@ -6,8 +6,8 @@ Dokumentasi ini disusun sebagai laporan komprehensif pengerjaan Modul 1 hingga M
 ---
 
 ## 👤 IDENTITAS SAYA :
-* **Nama:** Muhammad Gilang Alfariji
-* **NIM:** 312410363
+* **Nama:** Haris Adriansyah
+* **NIM:** 312410286
 * **Kelas:** TI.24.A4/I241D
 * **Matkul:** Pemrograman Website 2
 
